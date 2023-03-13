@@ -32,5 +32,6 @@ Java’s .net package provides two classes:
 - `Socket` for implementing a client
 - `ServerSocket` – for implementing a server
 
+<hr>
 
 

@@ -15,7 +15,7 @@ public class ServerApp {
             System.out.println(dis.readUTF());
 
             DataOutputStream dos = new DataOutputStream(clientSocketOutStream);
-            dos.writeUTF("HI there");
+            dos.writeUTF("pong");
             dis.close();
             dos.close();
             clientSocketInStream.close();

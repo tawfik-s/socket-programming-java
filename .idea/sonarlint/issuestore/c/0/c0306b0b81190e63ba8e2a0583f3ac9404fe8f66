@@ -1,0 +1,9 @@
+
+i
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(€†ž²8¥õž¦í0
+]	java:S125"<This block of commented-out lines of code should be removed.(¬§™…øÿÿÿÿ8 ¡±¦í0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(÷±ÈÊ8²õž¦í0
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(‰ÅŠýúÿÿÿÿ8µõž¦í0
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ÑÇÏÅ8µõž¦í0
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ËÙ±¦í0

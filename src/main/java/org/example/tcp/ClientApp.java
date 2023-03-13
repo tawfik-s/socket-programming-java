@@ -12,7 +12,7 @@ public class ClientApp {
         DataOutputStream dos = new DataOutputStream(socketOut);
         DataInputStream dis=new DataInputStream(socketIn);
 
-        dos.writeUTF("welcome from client");
+        dos.writeUTF("ping");
 
         String st = new String(dis.readUTF());
         System.out.println(st);
