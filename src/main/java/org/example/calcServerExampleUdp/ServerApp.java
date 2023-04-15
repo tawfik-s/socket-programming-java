@@ -1,4 +1,4 @@
-package org.example.udp;
+package org.example.calcServerExampleUdp;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
